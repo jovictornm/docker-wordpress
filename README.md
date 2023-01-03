@@ -133,6 +133,6 @@ volumes:
 Iniciar Docker Compose (executar esse comando em modo usuario normal, não root)
 
 ```
-docker-compose up (executar esse comando em modo usuario normal, não root) 
+docker-compose up 
 ```
           
