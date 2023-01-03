@@ -93,8 +93,11 @@ touch docker-compose.yaml
 
 sudo vi docker-compose.yaml
 
+```
+
 colocar dentro do arquivo "docker-compose.yaml"
 
+```
 version: '2.0'
 
 services:
